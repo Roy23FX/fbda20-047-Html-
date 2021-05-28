@@ -1,0 +1,109 @@
+body {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.hero-image {
+  background-image: url("bak.png");
+  width: 100%;
+  height: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  
+}
+
+h1 {
+  font-family:Century Gothic;
+  letter-spacing: 20px;
+  text-align:center;
+  font-size: 35px;
+}
+h1:hover{
+  color:#ffffff;
+
+}
+p{
+  font-family:Century Gothic;
+  font-size: 20px;
+  color:black;
+}
+.img-santa{
+  width: 100%;
+  height:auto;
+  
+}
+
+.trade-mk{
+  width: 100%;
+  height:auto;
+  
+}
+
+.img_santa{
+  width: 100%;
+  height:auto;
+  padding:3px
+  
+}
+.image_fur{
+  width: 100%;
+  height:auto;
+  padding:3px
+  
+}
+
+.intro-video{
+  position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-rightright: auto;
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 3px;
+  overflow: hidden;
+  background-color:transparent
+
+}
+
+li {
+  float: right;
+
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: right;
+  font-family: Franklin Gothic Medium;
+  padding: 5px 7px;
+  text-decoration: none;
+  letter-spacing:6px;
+
+  }
+li a:hover{
+  color: aqua;
+  transition-delay: 0.3s;
+  letter-spacing: 15px;
+
+  }
+  
+  
+.footer {
+  position:border-bottom;
+  left: 0;
+  bottom: 100%;
+  width: 100%;
+  background-image: transparent;
+  text-align: center;
+}
+
+
